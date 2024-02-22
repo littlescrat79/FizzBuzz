@@ -1,0 +1,3 @@
+#ignore vendor and caches
+vendor/
+.phpunit.cache/
